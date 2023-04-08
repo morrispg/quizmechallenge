@@ -7,4 +7,4 @@ This assignment presented opportunities to work with Arrays, Objects, Timers, Lo
 
 https://github.com/morrispg/quizmechallenge.git
 
-git@github.com:morrispg/quizmechallenge.git
+
